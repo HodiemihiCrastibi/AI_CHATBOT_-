@@ -12,7 +12,7 @@ AI chatbot has been implemented as a website.
 - pandas
 - sentence-transformers
 - scikit-learn
-- 
+
 ## Installation
 
 Open a Visual Studio Code and run:
