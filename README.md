@@ -5,13 +5,21 @@ AI chatbot has been implemented as a website.
 
 **A faster way to build and share update websites.**
 
+## Dependency
+
+- streamlit
+- streamlit-chat
+- pandas
+- sentence-transformers
+- scikit-learn
+- 
 ## Installation
 
 Open a Visual Studio Code and run:
 
 ```bash 
 1. pip install streamlit
-2. python -m streamlit run chatbot.py 
+2. python -m streamlit run chatbot.py
 ```
 
 If you want to post it on a website:
