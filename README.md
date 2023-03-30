@@ -32,3 +32,11 @@ If you want to post it on a website:
 
 ### Give me more!
 https://user-images.githubusercontent.com/101847820/221772292-8da1ed49-493e-4360-b013-b30f99c57ff9.mp4
+
+## Get inspired
+
+There's so much you can build with streamlit:
+- watch youtube 🧬💬👀
+- https://youtu.be/-sZep4jmiR4
+- and more!
+
