@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_chat import message
+from streamlit_webrtc import VideoTransformerBase, webrtc_streamer
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
